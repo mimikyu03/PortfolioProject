@@ -261,7 +261,7 @@ section {
 /*ind*/
 .btn-con {
   display: flex;
-  align-self: flex-start;
+  align-self: flex-start; 
 }
 
 .main-btn {
